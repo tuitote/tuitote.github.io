@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Tuitote | Environment is life</title>
+    <link>https://tuitote.github.io/blog/</link>
+    <description>Recent content in Blog on Tuitote | Environment is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://tuitote.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do reusable bags help the environment?</title>
+      <link>https://tuitote.github.io/blog/post-2/</link>
+      <pubDate>Thu, 26 Dec 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://tuitote.github.io/blog/post-2/</guid>
+      <description>It’s common to hear that reusable bags – the ones you can use many times over, for months or even years– are great for the environment because they replace single use plastic bags.</description>
+    </item>
+    
+    <item>
+      <title>Banning Plastic Bags Is Great for the World, Right? Not So Fast</title>
+      <link>https://tuitote.github.io/blog/post-1/</link>
+      <pubDate>Thu, 06 Oct 2016 11:22:16 +0600</pubDate>
+      
+      <guid>https://tuitote.github.io/blog/post-1/</guid>
+      <description>This story originally appeared on Grist and is part of the Climate Desk collaboration.
+Like cigarettes, plastic bags have recently gone from a tolerated nuisance to a widely despised and discouraged vice.</description>
+    </item>
+    
+  </channel>
+</rss>

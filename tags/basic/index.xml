@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basic on Túi Tò Te</title>
+    <link>tuitote.github.io/tags/basic/</link>
+    <description>Recent content in basic on Túi Tò Te</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2020 22:01:30 +0700</lastBuildDate>
+    
+	<atom:link href="tuitote.github.io/tags/basic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic</title>
+      <link>tuitote.github.io/products/basic/</link>
+      <pubDate>Sun, 07 Jun 2020 22:01:30 +0700</pubDate>
+      
+      <guid>tuitote.github.io/products/basic/</guid>
+      <description>A bag is made by eco-friendly materials known as Canvas and we call it “Túi tò te” – “ToTe Bag” in English. We offer this bag for all of Vietnamese people with aims to raise community awareness and change daily habits about the environmental protection.</description>
+    </item>
+    
+  </channel>
+</rss>
